@@ -229,7 +229,7 @@ textarea {
 
 .contact {
   /*background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/769286/lake-696098_1920.jpg);*/
-  background-color: tomato;
+  background-color: steelblue;
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
@@ -356,7 +356,6 @@ textarea{
 input[type="submit"]{
 	background-color: #F90;
 	color: white;
-	height: 50px;
 	cursor: pointer;
 	margin-top: 30px;
 	font-size: 1.29em;
