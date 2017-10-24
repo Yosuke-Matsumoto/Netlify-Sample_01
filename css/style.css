@@ -360,9 +360,6 @@ input[type="submit"]{
 	cursor: pointer;
 	margin-top: 30px;
 	font-size: 1.29em;
-	-webkit-transition: background-color 0.5s;
-	-moz-transition: background-color 0.5s;
-	-o-transition: background-color 0.5s;
 	transition: background-color 0.5s;
 }
 input[type="submit"]:hover{
