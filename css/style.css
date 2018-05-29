@@ -1,12 +1,15 @@
   a {
     color: inherit;
     text-decoration: inherit;
+	  
   }
 
   body {
 	margin: 0;
 	padding: 0;
-	font-family: 'Open Sans', sans-serif;
+	font-family: industry, sans-serif;
+	font-style: normal;
+	font-weight: 10;
   }
   ::selection {
     background-color: #f7ca18;
@@ -122,9 +125,7 @@
   section {
 	height: 100vh;
 	display: flex;
-	background-image: url(../../../Desktop/specula%20logo.png);
-	background-size: cover;
-	background-position: bottom;
+	background: dimgray;
   }
   section .title {
     max-width: 60%;
@@ -136,7 +137,9 @@
     padding-bottom: 10px;
   }
 .title {
-	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
+	font-family: industry, sans-serif;
+	font-style: italic;
+	font-weight: 200;
 }
   section .title span {
     display: inline-block;
